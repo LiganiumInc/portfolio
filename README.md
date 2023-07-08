@@ -83,7 +83,5 @@ Detailed achievements:
 - Since Nov 2022: **Adjunct treasurer of the International Student Club(ISC) of UM6P**
 - Since Oct 2021: **Member of Google Developer Student Club (GDSC) of UM6P**
 
-## Publications 
-
 ## [Blog articles](https://medium.com/@bernardinligan/)
 1. [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b)
