@@ -11,7 +11,6 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 ## Industry Experience
 **Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
 Detailed achievements : 
-
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
 - Preprocess NetCDF images with libraries such as xarray and dask
 - Explore the link between the target product and data used as proxies.
@@ -19,6 +18,7 @@ Detailed achievements :
 - Select the best model by using statistical significance tests (Scott-Knott test ) and ranking methods such as Borda count
 - Implement a processing scheme for automated remote sensing data downscaling.
 - Produce maps of the target variable with an enhanced spatial resolution. <br/>
+
 **July 2022 -- Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**<br/>
 Detailed achievements:
 
