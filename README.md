@@ -19,3 +19,23 @@ Detailed achievements :
 - Select the best model by using statistical significance tests (Scott-Knott test ) and ranking methods such as Borda count
 - Implement a processing scheme for automated remote sensing data downscaling.
 - Produce maps of the target variable with an enhanced spatial resolution.
+
+**July 2022--Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**
+
+Detailed achievements:
+- Collect and prepare Data
+- Transform Time Series into images based on methods like Gramian Angular Field, Markov Transition Field, Recurrence Plot
+- Build CNN models for each method
+- Compare the models and select the best for deployment
+
+## Programming Skills
+- **Data Science/AI** : Python, Scikit-learn, Tensorflow, Pytorch, Openvino Toolkit, TensorRT, Pandas, Spark
+- **Cloud** : Azure, Azure Machine Learning, Google Cloud (rudiments)
+- **Devops** : CI/CD, Docker, Git, Github, Github Actions
+- **Front End** : HTML, CSS, Vuejs, Axios, Streamlit, Gradio
+- **Back End** : Django, Django Rest Framework, FastApi
+- **GIS** : Geopandas, xarray, Leafmap, QGIS
+
+## Training and Certifications
+#### Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url}
+#### Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)
