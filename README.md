@@ -5,7 +5,7 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 
 ## Education 
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
-- 2020--2021 | Master 1 TIC | | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
+- 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Industry Experience
