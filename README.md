@@ -3,6 +3,13 @@
 ## Research Interests
 Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, Cloud Computing, Model Compression, GIS & AI for SDGs
 
+## Contacts
+<p align="left">
+<a href="https://twitter.com/bernardinligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardinligan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bernardin-ligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernardin-ligan" height="30" width="40" /></a>
+<a href="https://kaggle.com/bernardin ligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bernardin ligan" height="30" width="40" /></a>
+</p>
+
 ## Education 
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 - 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
