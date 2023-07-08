@@ -10,7 +10,6 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 
 ## Industry Experience
 **Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
-
 Detailed achievements : 
 
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
@@ -22,7 +21,6 @@ Detailed achievements :
 - Produce maps of the target variable with an enhanced spatial resolution. <br/>
 
 **July 2022 -- Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**<br/>
-
 Detailed achievements:
 
 - Collect and prepare Data
@@ -39,5 +37,6 @@ Detailed achievements:
 - **GIS** : Geopandas, xarray, Leafmap, QGIS
 
 ## Training and Certifications
-#### * Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url)
-#### * Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)
+- **Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url)**
+- **Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)**
+- 
