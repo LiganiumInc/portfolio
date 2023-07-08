@@ -61,11 +61,15 @@ Detailed achievements:
 
 ## Participation in Academic Events
 - 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
-- 26 \& 27 Jan 2023 | **TechInnov Day**, Seminar, UM6P Morocco
+- 26 & 27 Jan 2023 | **TechInnov Day**, Seminar, UM6P Morocco
 > Two days with eminent researchers in AI like Yann Lecun (his first visit to Africa). 
-> Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.
-> Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence
--23 \& 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
+  -Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.
+  -Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence
+
+
+- 23 & 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
 > Several seminars and panels with researchers and decision-makers on topics such as real-time data collection, establishing communication networks to connect devices and people in Africa, data analysis to optimize the management of urban resources, and the creation of basic public services.
+
+
 - 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
 > This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
