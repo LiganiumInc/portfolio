@@ -50,13 +50,13 @@ Detailed achievements:
 - **First Prize SAS Hackathon**: Creation with my team of the best Fund Raising Amount prediction model using the SAS Viya platform (2021)
   
 ## Projects
-- Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.
+- **Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.**
     >Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
-- Deployment of an interpretable diabetes prediction application on Google Cloud.
+- **Deployment of an interpretable diabetes prediction application on Google Cloud.**
     >Tools used: Streamlit, Docker, Google Cloud, Scikit-learn, Xgboost, Lightgbm, SHAP Values - eli5
-- Realization of an AI-based application, to help people with reduced mobility to perform basic tasks on a computer from their voice
+- **Realization of an AI-based application, to help people with reduced mobility to perform basic tasks on a computer from their voice**
     >Tools used: Spacy, Vosk, NER (Name Entity Recognition)
-- Bitcoin Price Prediction Using Deep Learning
+- **Bitcoin Price Prediction Using Deep Learning**
     >Tools used: N-BEATS (Neural basis expansion analysis for interpretable time series forecasting), Tensorflow
 
 ## Participation in Academic Events
@@ -71,3 +71,11 @@ Detailed achievements:
 
 - 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
 > This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
+
+## Voluntary Experience
+- Since Nov 2022: **Adjunct treasurer of the International Student Club(ISC) of UM6P**
+- Since Oct 2021: **Member of Google Developer Student Club (GDSC) of UM6P**
+  
+## Languages
+- **French: Advanced**
+- **English: Professional**
