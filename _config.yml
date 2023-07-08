@@ -1,5 +1,6 @@
 title: Bernardin LIGAN
 logo: /assets/img/ligan.jpg
 description: I am proficient in computer vision, Times series, and MLOps. I also have a love for AI-based solutions that support the Sustainable Development Goals (SDGs)
-show_downloads: true
+#show_downloads: true
+
 remote_theme: pages-themes/minimal@v0.2.0
