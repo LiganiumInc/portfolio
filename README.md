@@ -9,7 +9,7 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Industry Experience
-**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
+**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) : Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
 Detailed achievements : 
 
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
@@ -39,4 +39,33 @@ Detailed achievements:
 ## Training and Certifications
 - **Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url)**
 - **Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)**
-- 
+- **PyTorch for Deep Learning in 2023: Zero to Mastery, Udemy, [Link](https://www.udemy.com/certificate/UC-13a4f147-2b22-4e75-90e3-97f6636f1e62/)**
+- **Optimize TensorFlow Models For Deployment with TensorRT, Coursera, [Link](https://coursera.org/share/678fc097e9f7fb2e99b11a569bb6cb08)**
+- **Spécialisation Google IT Automation with Python, Coursera, [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/UU9NSJYTWY8T)**
+- **Deep Learning Computer Vision CNN OpenCV Yolo SSD GANs, Udemy, [Link](https://www.udemy.com/certificate/UC-cf5990ab-1b53-4313-bf0a-b84ba2d0a5b6/)**
+- **The Complete Guide to Django Rest Framework and Vuejs, Udemy, [Link](https://www.udemy.com/certificate/UC-8fd8d5d3-5057-4113-b695-5659a28694b5/)**
+- **Python in Containers, Udemy, [Link](https://www.udemy.com/certificate/UC-d4d61d03-560e-4f94-ae7c-fb00e1344dd8/)**
+
+## Hackathons
+- **First Prize SAS Hackathon**: Creation with my team of the best Fund Raising Amount prediction model using the SAS Viya platform (2021)
+  
+## Projects
+- Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.
+    Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
+- Deployment of an interpretable diabetes prediction application on Google Cloud.
+    Tools used: Streamlit, Docker, Google Cloud, Scikit-learn, Xgboost, Lightgbm, SHAP Values - eli5
+- Realization of an AI-based application, to help people with reduced mobility to perform basic tasks on a computer from their voice
+    Tools used: Spacy, Vosk, NER (Name Entity Recognition)
+- Bitcoin Price Prediction Using Deep Learning
+    Tools used: N-BEATS (Neural basis expansion analysis for interpretable time series forecasting), Tensorflow
+
+## Participation in Academic Events
+- 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
+- 26 \& 27 Jan 2023 | **TechInnov Day**, Seminar, UM6P Morocco
+> Two days with eminent researchers in AI like Yann Lecun (his first visit to Africa). 
+> Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.
+> Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence
+-23 \& 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
+> Several seminars and panels with researchers and decision-makers on topics such as real-time data collection, establishing communication networks to connect devices and people in Africa, data analysis to optimize the management of urban resources, and the creation of basic public services.
+- 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
+> This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
