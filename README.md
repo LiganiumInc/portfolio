@@ -9,8 +9,7 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Industry Experience
-**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**
-
+**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
 Detailed achievements : 
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
 - Preprocess NetCDF images with libraries such as xarray and dask
@@ -18,10 +17,8 @@ Detailed achievements :
 - Estimate the target variable as a function of the proxy data using Machine Learning and Deep Learning methods
 - Select the best model by using statistical significance tests (Scott-Knott test ) and ranking methods such as Borda count
 - Implement a processing scheme for automated remote sensing data downscaling.
-- Produce maps of the target variable with an enhanced spatial resolution.
-- 
-**July 2022 -- Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**
-
+- Produce maps of the target variable with an enhanced spatial resolution. <br/>
+**July 2022 -- Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**<br/>
 Detailed achievements:
 - Collect and prepare Data
 - Transform Time Series into images based on methods like Gramian Angular Field, Markov Transition Field, Recurrence Plot
@@ -37,5 +34,5 @@ Detailed achievements:
 - **GIS** : Geopandas, xarray, Leafmap, QGIS
 
 ## Training and Certifications
-#### Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url}
+#### Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url)
 #### Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)
