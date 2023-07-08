@@ -51,13 +51,13 @@ Detailed achievements:
   
 ## Projects
 - Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.
-    Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
+    >Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
 - Deployment of an interpretable diabetes prediction application on Google Cloud.
-    Tools used: Streamlit, Docker, Google Cloud, Scikit-learn, Xgboost, Lightgbm, SHAP Values - eli5
+    >Tools used: Streamlit, Docker, Google Cloud, Scikit-learn, Xgboost, Lightgbm, SHAP Values - eli5
 - Realization of an AI-based application, to help people with reduced mobility to perform basic tasks on a computer from their voice
-    Tools used: Spacy, Vosk, NER (Name Entity Recognition)
+    >Tools used: Spacy, Vosk, NER (Name Entity Recognition)
 - Bitcoin Price Prediction Using Deep Learning
-    Tools used: N-BEATS (Neural basis expansion analysis for interpretable time series forecasting), Tensorflow
+    >Tools used: N-BEATS (Neural basis expansion analysis for interpretable time series forecasting), Tensorflow
 
 ## Participation in Academic Events
 - 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
@@ -66,10 +66,8 @@ Detailed achievements:
   -Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.<br/>
   -Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence<br/>
 
-
 - 23 & 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
 > Several seminars and panels with researchers and decision-makers on topics such as real-time data collection, establishing communication networks to connect devices and people in Africa, data analysis to optimize the management of urban resources, and the creation of basic public services.
-
 
 - 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
 > This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
