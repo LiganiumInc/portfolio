@@ -72,10 +72,11 @@ Detailed achievements:
 - 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
 > This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
 
-## Voluntary Experience
+## Club Experience
 - Since Nov 2022: **Adjunct treasurer of the International Student Club(ISC) of UM6P**
 - Since Oct 2021: **Member of Google Developer Student Club (GDSC) of UM6P**
-  
-## Languages
-- **French: Advanced**
-- **English: Professional**
+
+## Publications 
+
+## [Blog articles](https://medium.com/@bernardinligan/)
+1. [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b)
