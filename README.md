@@ -62,9 +62,9 @@ Detailed achievements:
 ## Participation in Academic Events
 - 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
 - 26 & 27 Jan 2023 | **TechInnov Day**, Seminar, UM6P Morocco
-> Two days with eminent researchers in AI like Yann Lecun (his first visit to Africa). 
-  -Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.
-  -Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence
+> Two days with eminent researchers in AI like Yann Lecun (his first visit to Africa). <br/>
+  -Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.<br/>
+  -Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence<br/>
 
 
 - 23 & 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
