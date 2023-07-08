@@ -9,7 +9,8 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Industry Experience
-**Mars/2023--July/2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Ben Guerir | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**
+**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) | Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**
+
 Detailed achievements : 
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
 - Preprocess NetCDF images with libraries such as xarray and dask
