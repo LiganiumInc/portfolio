@@ -19,6 +19,7 @@ Detailed achievements :
 - Select the best model by using statistical significance tests (Scott-Knott test ) and ranking methods such as Borda count
 - Implement a processing scheme for automated remote sensing data downscaling.
 - Produce maps of the target variable with an enhanced spatial resolution.
+- 
 **July 2022 -- Sept.2022 | Data Scientist Intern | Green Energy Park | Structural Health Monitoring: Development of Deep Learning models for the detection of damage in buildings from Time Series data, collected by sensors**
 
 Detailed achievements:
