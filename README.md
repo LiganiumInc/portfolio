@@ -1,4 +1,4 @@
-# ML Engineer | Azure Data Scientist Associate 
+# AI Engineer | Azure Data Scientist Associate 
 
 ## Research Interests
 Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, Cloud Computing, Model Compression, GIS & AI for SDGs
