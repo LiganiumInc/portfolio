@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Research Interests
+## Interests
 - Computer Vision
 - Satellite imagery
 - MLOps
