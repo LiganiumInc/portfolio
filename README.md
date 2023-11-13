@@ -1,7 +1,12 @@
 # Data Scientist
 
 ## Research Interests
-Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, Cloud Computing, Model Compression, GIS & AI for SDGs
+- Computer Vision
+- Satellite imagery
+- MLOps
+- Time Series
+- AI for SDGs
+- Politics for the development of new technologies in Africa
 
 ## Contacts
 <p align="left">
@@ -11,11 +16,22 @@ Computer Vision, Time Series Forecasting, MLOps, Big Data,  Satellite imagery, C
 </p>
 
 ## Education 
+- 2023--2024 | Pre-doctoral Student  : Hyperspectral Imaging for Analysis of Satellite Unstructured Data
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 - 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Industry Experience
+**Septembre 2023 -- Octobre 2023 | Backend GIS-Data Engineer | Valhko**<br/>
+Detailed achievements : 
+
+- Identify geospatial data sources
+- Design the database architecture with postgis
+- Integrate Time Series Data with Timescaleddb
+- Design the Backend of the platform with Django Rest Framework and some others django's GIS modules
+- Integrate Swagger Specification (with drf-yasg tool) to automatically generate API's documentation 
+- Join all parts of the App by creating services with docker-compose
+
 **Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) : Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
 Detailed achievements : 
 
