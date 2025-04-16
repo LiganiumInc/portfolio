@@ -16,7 +16,7 @@
 </p>
 
 ## Education 
-- 2023--2024 | Pre-doctoral Student  : Hyperspectral Imaging for Analysis of Satellite Unstructured Data
+- 2023--2027 | Phd Student  : Hyperspectral Imaging for Analysis of Satellite Unstructured Data
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 - 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
