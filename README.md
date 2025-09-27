@@ -16,6 +16,7 @@
 </p>
 
 ## Education 
+
 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
 
 2021--2023 | Master in Modelling and Data Science | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
@@ -28,6 +29,7 @@
 - Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification [Arxiv](\href{https://arxiv.org/abs/2505.15334)
 
 ## Teaching Experience
+
 Jul--Aug 2025 |  Lecturer in  Artificial Intelligence and Data Science : Taught a course on Artificial Intelligence and Data Science as part of the ARC Summer School organized by [The ARC Africa Research Center](https://www.linkedin.com/company/the-arc-africa-research-center/about/)
 
 Since 2024 | Lecturer in  Spatial Data Science with Python : Teaching Spatial Data Science with Python as part of the Citizen Data Scientist Program organised by [Africitizen](https://africitizen.co/)
@@ -104,7 +106,6 @@ Detailed achievements:
 
 ## Seminars/Conferences/ Summer School
 - 10 July to 18 July/2025 | **Advanced School on Foundation Models for Scientific Discovery**, ICTP, Trieste, Italy
-
 >Fundamentals of Foundation Models: Theory and Practice;
 Applications in Climate Science, Astrophysics, Material Science and Drug Discovery;
 Uncertainty Quantification (UQ) methods (to assess and incorporate uncertainty in predictions made by AI models); Explainable and trustworthy AI for Scientific research;
