@@ -16,7 +16,7 @@
 </p>
 
 ## Education 
-- 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | UM6P
+- 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 - 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
@@ -88,7 +88,7 @@ Detailed achievements:
   
 ## Projects
 - **Land Use and Land Cover Classification using Pytorch and Sentinel 2 Data**
-> Tools Used: Pytorch, Google Earth Engine, Geopandas
+    > Tools Used: Pytorch, Google Earth Engine, Geopandas
 - **Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.**
     >Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
 - **Deployment of an interpretable diabetes prediction application on Google Cloud.**
