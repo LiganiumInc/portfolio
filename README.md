@@ -16,17 +16,21 @@
 </p>
 
 ## Education 
-- 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
-- 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
-- 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
-- 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
+2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
+
+2021--2023 | Master in Modelling and Data Science | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
+
+2020--2021 | Master 1 TIC | | | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
+
+2017--2020 | Bachelor in Mathematics-Informatic | | | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Scientific Article
 - Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification [Arxiv](\href{https://arxiv.org/abs/2505.15334)
 
 ## Teaching Experience
-- Jul--Aug 2025 |  Lecturer in  Artificial Intelligence and Data Science : Taught a course on Artificial Intelligence and Data Science as part of the ARC Summer School organized by [The ARC Africa Research Center](https://www.linkedin.com/company/the-arc-africa-research-center/about/)
-- Since 2024 | Lecturer in  Spatial Data Science with Python : Teaching Spatial Data Science with Python as part of the Citizen Data Scientist Program organised by [Africitizen](https://africitizen.co/)
+Jul--Aug 2025 |  Lecturer in  Artificial Intelligence and Data Science : Taught a course on Artificial Intelligence and Data Science as part of the ARC Summer School organized by [The ARC Africa Research Center](https://www.linkedin.com/company/the-arc-africa-research-center/about/)
+
+Since 2024 | Lecturer in  Spatial Data Science with Python : Teaching Spatial Data Science with Python as part of the Citizen Data Scientist Program organised by [Africitizen](https://africitizen.co/)
 
 ## Industry Experience
 **Septembre 2023 -- Octobre 2023 | Backend GIS-Data Engineer | Valhko**<br/>
