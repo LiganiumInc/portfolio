@@ -19,11 +19,11 @@
 
 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
 
-2021--2023 | Master in Modelling and Data Science | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
+2021--2023 | Master in Modelling and Data Science | | | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 
-2020--2021 | Master 1 TIC | | | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
+2020--2021 | Master 1 TIC | | | | | | | |Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 
-2017--2020 | Bachelor in Mathematics-Informatic | | | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
+2017--2020 | Bachelor in Mathematics-Informatic | | | | |Institut de Mathématiques et de Science Physique, Dangbo- Bénin
 
 ## Scientific Article
 - Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification [Arxiv](\href{https://arxiv.org/abs/2505.15334)
