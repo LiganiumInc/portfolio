@@ -6,7 +6,7 @@
 - MLOps
 - Time Series
 - AI for SDGs
-- Politics for the development of new technologies in Africa
+
 
 ## Contacts
 <p align="left">
@@ -16,10 +16,17 @@
 </p>
 
 ## Education 
-- 2023--2027 | Phd Student  : Hyperspectral Imaging for Analysis of Satellite Unstructured Data
+- 2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | UM6P
 - 2021--2023 | Master in Modelling and Data Science | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 - 2020--2021 | Master 1 TIC | | | | Institut de Mathématiques et de Science Physique, Dangbo-Bénin
 - 2017--2020 | Bachelor in Mathematics-Informatic | Institut de Mathématiques et de Science Physique, Dangbo- Bénin
+
+## Scientific Article
+- Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification [Arxiv](\href{https://arxiv.org/abs/2505.15334)
+
+## Teaching Experience
+- Jul--Aug 2025 |  Lecturer in  Artificial Intelligence and Data Science : Taught a course on Artificial Intelligence and Data Science as part of the ARC Summer School organized by [The ARC Africa Research Center](https://www.linkedin.com/company/the-arc-africa-research-center/about/)
+- Since 2024 | Lecturer in  Spatial Data Science with Python : Teaching Spatial Data Science with Python as part of the Citizen Data Scientist Program organised by [Africitizen](https://africitizen.co/)
 
 ## Industry Experience
 **Septembre 2023 -- Octobre 2023 | Backend GIS-Data Engineer | Valhko**<br/>
@@ -32,7 +39,9 @@ Detailed achievements :
 - Integrate Swagger Specification (with drf-yasg tool) to automatically generate API's documentation 
 - Join all parts of the App by creating services with docker-compose
 
-**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA) : Downscaling remote sensing water-related products to improve groundwater monitoring in arid and semi-arid environments employing multisource satellite-based data**<br/>
+**Mars 2023 -- July 2023 | Data Scientist Intern | Center for Remote Sensing Applications (CRSA)** 
+**Statistical downscaling of Terrestrial Water Storage (TWS) data from the coarse-resolution [GRACE](https://grace.jpl.nasa.gov/) and [GRACE-FO](\href{https://gracefo.jpl.nasa.gov/)
+ missions. The objective was to apply machine learning models to enhance the spatial resolution of TWS estimates, enabling more accurate assessments of groundwater dynamics in arid and semi-arid environments.**<br/>
 Detailed achievements : 
 
 - Collect Satellite data: NDVI, LST, Rainfall, Soilmoisture, TWS 
@@ -52,7 +61,7 @@ Detailed achievements:
 - Compare the models and select the best for deployment
 
 ## Programming Skills
-- **Data Science/AI** : Python, Scikit-learn, Tensorflow, Pytorch, Openvino Toolkit, TensorRT, Pandas, Spark
+- **Data Science/AI** : Python, Scikit-learn, Tensorflow, Pytorch
 - **Cloud** : Azure, Azure Machine Learning, Google Cloud (rudiments)
 - **Devops** : CI/CD, Docker, Git, Github, Github Actions
 - **Front End** : HTML, CSS, Vuejs, Axios, Streamlit, Gradio
@@ -69,10 +78,17 @@ Detailed achievements:
 - **The Complete Guide to Django Rest Framework and Vuejs, Udemy, [Link](https://www.udemy.com/certificate/UC-8fd8d5d3-5057-4113-b695-5659a28694b5/)**
 - **Python in Containers, Udemy, [Link](https://www.udemy.com/certificate/UC-d4d61d03-560e-4f94-ae7c-fb00e1344dd8/)**
 
+## [Blog articles](https://medium.com/@bernardinligan/)
+- [How I Rebuilt My First LULC Project with a Vision Transformer and Clean Code](https://medium.com/@bernardinligan/how-i-rebuilt-my-first-lulc-project-with-a-vision-transformer-and-clean-code-aa9a06094c89})
+- [From Model to Map: Automating Land Use Classification with Vision Transformers, Google Earth Engine and Folium](https://medium.com/@bernardinligan/from-model-to-map-automating-land-use-classification-with-vision-transformers-and-google-earth-9a5510215054)
+- [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b)
+
 ## Hackathons
 - **First Prize SAS Hackathon**: Creation with my team of the best Fund Raising Amount prediction model using the SAS Viya platform (2021)
   
 ## Projects
+- **Land Use and Land Cover Classification using Pytorch and Sentinel 2 Data**
+> Tools Used: Pytorch, Google Earth Engine, Geopandas
 - **Creation of a website for the detection and rapid assessment of vehicle damage using AI, for car insurance.**
     >Tools used: Tensorflow-Keras, VGG19, Intel OpenVINO™ Toolkit, Django Rest Framework, Vuejs, Axios
 - **Deployment of an interpretable diabetes prediction application on Google Cloud.**
@@ -82,22 +98,32 @@ Detailed achievements:
 - **Bitcoin Price Prediction Using Deep Learning**
     >Tools used: N-BEATS (Neural basis expansion analysis for interpretable time series forecasting), Tensorflow
 
-## Participation in Academic Events
-- 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
+## Seminars/Conferences/ Summer School
+- 10 July to 18 July/2025 | **Advanced School on Foundation Models for Scientific Discovery**, ICTP, Trieste, Italy
+
+>Fundamentals of Foundation Models: Theory and Practice;
+Applications in Climate Science, Astrophysics, Material Science and Drug Discovery;
+Uncertainty Quantification (UQ) methods (to assess and incorporate uncertainty in predictions made by AI models); Explainable and trustworthy AI for Scientific research;
+Multimodal Learning etc
+
+- 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
+> This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
+
+- 23 & 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
+> Several seminars and panels with researchers and decision-makers on topics such as real-time data collection, establishing communication networks to connect devices and people in Africa, data analysis to optimize the management of urban resources, and the creation of basic public services.
+
 - 26 & 27 Jan 2023 | **TechInnov Day**, Seminar, UM6P Morocco
 > Two days with eminent researchers in AI like Yann Lecun (his first visit to Africa). <br/>
   -Day 1) The future of artificial intelligence according to renowned researchers and seasoned industrialists.<br/>
   -Day 2) The prospects of machine learning including the challenges related to research, academics, and business intelligence<br/>
 
-- 23 & 24 May 2023 | **African Cities Lab 2023 Summit**, Conference, UM6P Morocco / Sèmè City Benin
-> Several seminars and panels with researchers and decision-makers on topics such as real-time data collection, establishing communication networks to connect devices and people in Africa, data analysis to optimize the management of urban resources, and the creation of basic public services.
+- 03 to 05 Nov 2022 | **AMLD Africa 2022 (Applied Machine Learning Days) Africa**, Conference, UM6P Morocco
 
-- 23 June to 27 July 2023 | **Climate Change AI(CCAI)**, Summer School, Virtual
-> This virtual program provides an overview of how artificial intelligence (AI) and machine learning (ML) can be used to address climate change. Through lectures and tutorials, we learn how AI/ML is employed across different climate-relevant fields/sectors, discuss important considerations for framing/scoping problems, and gain hands-on practice applying AI/ML to climate-relevant problems.
+
+
+
 
 ## Club Experience
 - Since Nov 2022: **Adjunct treasurer of the International Student Club(ISC) of UM6P**
 - Since Oct 2021: **Member of Google Developer Student Club (GDSC) of UM6P**
 
-## [Blog articles](https://medium.com/@bernardinligan/)
-1. [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b)
