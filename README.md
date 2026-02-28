@@ -17,7 +17,7 @@
 
 ## Education 
 
-2023--2027 | Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
+Since 2023 | Research Engineer  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
 
 2021--2023 | Master in Modelling and Data Science | | | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 
@@ -27,6 +27,8 @@
 
 ## Scientific Article
 - Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification [Arxiv](\href{https://arxiv.org/abs/2505.15334)
+
+- Prediction and uncertainty quantification of drought in north benin, Environmental Data Science, DOI={10.1017/eds.2025.10025}
 
 ## Teaching Experience
 
@@ -75,6 +77,9 @@ Detailed achievements:
 - **GIS** : Geopandas, xarray, Leafmap, QGIS
 
 ## Training and Certifications
+- **Humanitarian Use of OpenStreetMap  Data,Humanitarian OpenStreetMap Team, [Link](https://mycourse.app/wlLdCJ6ygqNYgu6Cr)**
+- **Hyperspectral Data for Land and Coastal Systems,NASA-ARSET,[Link](https://arset.unhosting.site/pluginfile.php/1/tool_certificate/issues/1764325903/1333764383BL.pdf)**
+- **Large Scale Applications of Machine Learning using Remote Sensing for Building Agriculture Solutions,NASA-ARSET**
 - **Azure Data Scientist Associate, Microsoft, [Link](https://www.credly.com/badges/7b096b5c-f1e9-4e04-a14f-09a0b951034a/public_url)**
 - **Tensorflow Developer Certificate, Google, [Link](https://www.credential.net/3206cc90-1475-4dc8-b038-9079945a43d8#gs.u3ccnc)**
 - **PyTorch for Deep Learning in 2023: Zero to Mastery, Udemy, [Link](https://www.udemy.com/certificate/UC-13a4f147-2b22-4e75-90e3-97f6636f1e62/)**
