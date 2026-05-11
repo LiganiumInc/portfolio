@@ -17,7 +17,7 @@
 
 ## Education 
 
-Since 2023 | Research Engineer  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
+2020--2027| Phd Student  : Efficient Deep Learning for Hyperspectral Image tasks | Mohammed VI Polytechnic University (UM6P), Rabat, Morocco
 
 2021--2023 | Master in Modelling and Data Science | | | | | Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 
